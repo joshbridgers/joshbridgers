@@ -4,9 +4,9 @@
 Lead bioinformatician and subject matter expert on next‑generation sequencing for distinguished scientist, Dr. Aly Karsan. 10+ years specializing in petabase‑scale high‑throughput NGS production not limited to pipeline development, quality assurance, security, and regulatory compliance.
 
 
-<a href="mailto:joshbridgers@gmail.com"><img src="https://github.com/joshbridgers/logos/email-icon.svg" alt="joshbridgers@gmail.com" title="joshbridgers@gmail.com" width="32" height="32"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/joshbridgers"><img src="https://github.com/joshbridgers/logos/Twitter_Social_Icon_Circle_Color.png" width="33" height="33" alt="@joshbridgers" title="@joshbridgers"></a>&nbsp;&nbsp;
-<a href="https://ca.linkedin.com/in/joshbridgers"><img src="https://github.com/joshbridgers/logos/LI-In-Bug.png" alt="joshbridgers" title="joshbridgers" width="38" height="32"></a>
+<a href="mailto:joshbridgers@gmail.com"><img src="https://github.com/joshbridgers/joshbridgers/blob/main/logos/email-icon.svg" alt="joshbridgers@gmail.com" title="joshbridgers@gmail.com" width="32" height="32"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/joshbridgers"><img src="https://github.com/joshbridgers/joshbridgers/blob/main/logos/Twitter_Social_Icon_Circle_Color.png" width="33" height="33" alt="@joshbridgers" title="@joshbridgers"></a>&nbsp;&nbsp;
+<a href="https://ca.linkedin.com/in/joshbridgers"><img src="https://github.com/joshbridgers/joshbridgers/blob/main/logos/LI-In-Bug.png" alt="joshbridgers" title="joshbridgers" width="38" height="32"></a>
 
 ## Publications
 
