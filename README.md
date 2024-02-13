@@ -10,6 +10,8 @@ Lead bioinformatician and subject matter expert on next‑generation sequencing 
 
 ## Publications
 
+Gharaee N, ..., Bridgers J, ..., Karsan A. _Haploinsufficiency of miR-143 and miR-145 reveal targetable dependencies in resistant del(5q) myelodysplastic syndrome_. Clinical Cancer Research. (In Review). 
+
 Kincross H, ..., Bridgers J, ..., Karsan A. _Loss of FBXO11 function establishes a stem cell program in acute myeloid leukemia through dysregulation of the mitochondrial protease LONP1._ Nature Communications. (In Review). bioRxiv. doi: [doi.org/10.1101/2022.09.10.507366](https://doi.org/10.1101/2022.09.10.507366)
 
 Sabatini P, Bridgers J, ..., Karsan A. _Multisite clinical cross‑validation and variant interpretation of a next generation sequencing panel for lymphoid cancer prognostication._ Journal of Clinical Pathology. Jan 2024. jcp‑2023‑209262. doi: [10.1136/jcp‑2023‑209262](https://doi.org/10.1136/jcp-2023-209262).
